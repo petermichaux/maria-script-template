@@ -39,8 +39,6 @@ Downloads
 
 See http://peter.michaux.ca/downloads/maria-script-template/ for production ready builds.
 
-Install via Bower with `bower install maria-script-template`
-
 
 Status
 ------
